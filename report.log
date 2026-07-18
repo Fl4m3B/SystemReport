@@ -1,0 +1,25 @@
+[31m		System Report - 2026-07-18[0m
+[32m
+Device Information[0m
+Hostname:			TestBox
+Domain:				
+[32mNetwork Information[0m
+IP Address:			127.0.1.1
+Gateway				192.168.205.2
+Network Mask			255.255.255.0
+DNS1:				127.0.0.53
+[32mOS Information[0m
+Operating System:		Linux
+Operating Version:		26.04
+Kernel Version			7.0.0-28-generic
+[32mStorage Information[0m
+Hard Drive Capacity:		48G
+Available Space			35G
+[32mProcessor Information[0m
+CPU Model:			Intel(R) Core(TM) i9-14900KF
+Number of processors		2
+Number of cores			2
+[32mMemory Information[0m
+Total RAM			3.3Gi
+Available RAM			125Mi
+
